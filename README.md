@@ -59,7 +59,6 @@ Me chamo Jonathan, tenho 23 anos e sou natural do Rio Grande do Sul. Concluí o 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanluft&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
