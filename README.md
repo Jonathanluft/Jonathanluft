@@ -37,7 +37,7 @@ Me chamo Jonathan, tenho 23 anos e sou natural do Rio Grande do Sul. Concluí o 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>     
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"   
 />
             
           
