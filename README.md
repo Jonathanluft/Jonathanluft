@@ -2,7 +2,7 @@
 
 **`Ciência de dados e Machine learning`**
 
-Me chamo Jonathan, tenho 23 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na Fundação Liberato, com o curso técnico em eletrônica. Atualmente, estou cursando Machine learning, IA Generativa e Natural Language Processing na FIAP. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub e linkedin.
+Me chamo Jonathan, tenho 23 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na Fundação Liberato juntamente com o  curso técnico em eletrônica. Atualmente, estou cursando Machine learning, IA Generativa e Natural Language Processing na FIAP. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub e linkedin.
 
 ---
 
