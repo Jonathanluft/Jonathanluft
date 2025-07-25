@@ -39,7 +39,14 @@ Me chamo Jonathan, tenho 23 anos e sou natural do Rio Grande do Sul. Concluí o 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"   
 />
-            
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"   
+/>
           
 <br/>
 <br/>
