@@ -2,17 +2,24 @@
 
 **`Ciência de dados e Machine learning`**
 
-Atualmente, estou cursando Inteligência Artificial pela FIAP, com foco em Machine Learning, IA Generativa e Processamento de Linguagem Natural. Essa formação tem ampliado minha capacidade de desenvolver soluções inteligentes baseadas em dados, desde a coleta e análise até a modelagem preditiva e implantação em ambiente real.
+Estou em formação em Inteligência Artificial pela FIAP, com foco em Machine Learning, IA Generativa e NLP. Tenho experiência com Python, SQL, Pandas, Scikit-learn e AWS (S3, EC2, SageMaker), aplicando técnicas de ciência de dados em projetos próprios. Busco oportunidades de estágio na área de dados e inteligência artificial onde eu possa aprender na prática, contribuir com soluções e crescer profissionalmente. Acredito na aprendizagem contínua, colaboração em equipe e no poder dos dados para transformar negócios. Acesse meu GitHub para conhecer alguns dos meus projetos.
 
-Me chamo Jonathan, formado como técnico em Eletrônica pela Fundação Liberato, onde também concluí o ensino médio. Desde então, venho direcionando minha trajetória profissional para o campo da ciência de dados e inteligência artificial.
+Sou apaixonado por transformar dados em soluções reais e inteligentes. Atualmente, curso Inteligência Artificial pela FIAP, com foco em Machine Learning, IA Generativa e Processamento de Linguagem Natural (NLP). Essa formação tem me preparado para lidar com todo o ciclo de vida de projetos baseados em dados — da coleta à modelagem preditiva e implantação em ambiente de produção.
 
-Tenho experiência com Python, R e SQL, além de frameworks como Scikit-learn, Trabalho com bibliotecas como Pandas, NumPy e Matplotlib, aplicando métodos estatísticos e de aprendizado de máquina em diferentes contextos.
+Tenho sólida base em Python, R e SQL, além de experiência com bibliotecas como Pandas, NumPy, Scikit-learn e Matplotlib. Também desenvolvo projetos com AWS (S3, EC2, SageMaker), aplicando essas tecnologias para prototipação, escalabilidade e automação de soluções.
 
-Possuo também conhecimentos em serviços de nuvem com AWS, especialmente no uso de Amazon S3, EC2 e SageMaker para prototipagem e escalabilidade de modelos.
+Possuo formação técnica em Eletrônica pela Fundação Liberato, onde desenvolvi raciocínio lógico, pensamento sistêmico e boa base em automação. 
 
-Sou entusiasta de tecnologia, apaixonado por aprendizado contínuo e por transformar dados em soluções reais. Além das competências técnicas, destaco habilidades menos convencionais como curiosidade investigativa para explorar dados além do óbvio, capacidade de simplificar complexidades técnicas para públicos não especializados, execelente didática e boas relações com equipe. 
+Minhas soft skills incluem:
 
-Tenho um perfil analítico com foco em pensamento sistêmico, buscando sempre conectar diferentes pontos de dados para insights estratégicos.
+Curiosidade investigativa para explorar dados além do óbvio
+
+Facilidade para traduzir conceitos técnicos para públicos não técnicos
+
+Boa didática e comunicação com times multidisciplinares
+
+Colaboração e foco em resultados
+📩 Contato: jonathan.w.luft@gmail.com
 ---
 
 <img 
