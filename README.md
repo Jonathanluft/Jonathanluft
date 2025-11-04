@@ -12,11 +12,8 @@ Possuo formação técnica em Eletrônica pela Fundação Liberato, onde desenvo
 
 Minhas soft skills incluem:
 
-Curiosidade investigativa para explorar dados além do óbvio
-
-Facilidade para traduzir conceitos técnicos para públicos não técnicos
-
-Boa didática e comunicação com times multidisciplinares
+- Curiosidade investigativa para explorar dados 
+- Boa didática e comunicação com times multidisciplinares
 
 📩 Contato: jonathan.w.luft@gmail.com
 ---
