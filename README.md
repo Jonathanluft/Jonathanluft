@@ -78,7 +78,7 @@ Boa didática e comunicação com times multidisciplinares
   />
 
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
       height="170" 
       style="padding-right: 10px;" 
