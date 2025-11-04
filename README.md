@@ -67,14 +67,13 @@ Boa didática e comunicação com times multidisciplinares
 <br/>
 
 ### 📊 Estatísticas
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
   <img 
     height="170" 
     src="https://github-readme-stats.vercel.app/api?username=Jonathanluft&show_icons=true&theme=tokyonight&include_all_commits=true" 
     alt="GitHub Stats" 
     width="48%" 
-    style="padding-right: 10px;"
   />
 
   <img 
