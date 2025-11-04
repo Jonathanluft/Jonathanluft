@@ -62,12 +62,8 @@ Boa didática e comunicação com times multidisciplinares
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"   
 />
-          
-
-
 
 <table align="center" width="100%">
-### 📊 Estatísticas
   <tr>
     <td align="center" width="50%">
       <img
