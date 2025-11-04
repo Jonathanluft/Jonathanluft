@@ -64,9 +64,10 @@ Boa didática e comunicação com times multidisciplinares
 />
           
 
-### 📊 Estatísticas
+
 
 <table align="center" width="100%">
+### 📊 Estatísticas
   <tr>
     <td align="center" width="50%">
       <img
