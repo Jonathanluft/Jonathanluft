@@ -80,7 +80,7 @@ Boa didática e comunicação com times multidisciplinares
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="160" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanluft&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
