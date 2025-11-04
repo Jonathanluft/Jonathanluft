@@ -63,6 +63,9 @@ Boa didática e comunicação com times multidisciplinares
     src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"   
 />
 
+
+<br>
+
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
@@ -81,4 +84,3 @@ Boa didática e comunicação com times multidisciplinares
     </td>
   </tr>
 </table>
-
