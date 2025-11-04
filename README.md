@@ -18,7 +18,6 @@ Facilidade para traduzir conceitos técnicos para públicos não técnicos
 
 Boa didática e comunicação com times multidisciplinares
 
-Colaboração e foco em resultados
 📩 Contato: jonathan.w.luft@gmail.com
 ---
 
