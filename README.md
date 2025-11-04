@@ -65,21 +65,23 @@ Boa didática e comunicação com times multidisciplinares
           
 
 ### 📊 Estatísticas
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=Jonathanluft&show_icons=true&theme=tokyonight&include_all_commits=true" 
-    alt="GitHub Stats" 
-    width="48%" 
-  />
-
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanluft&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    alt="Top Langs"
-    width="48%" 
-  />
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Jonathanluft&show_icons=true&theme=tokyonight&include_all_commits=true"
+        alt="GitHub Stats"
+        width="90%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanluft&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        alt="Top Langs"
+        width="90%"
+      />
+    </td>
+  </tr>
+</table>
 
