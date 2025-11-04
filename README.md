@@ -21,48 +21,44 @@ Boa didática e comunicação com times multidisciplinares
 📩 Contato: jonathan.w.luft@gmail.com
 ---
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.r-project.org/logo/Rlogo.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"   
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"   
-/>
-
+<!-- 🧰 Tecnologias -->
+<p align="center">
+  <img 
+      alt="Git" 
+      title="Git"
+      width="40px" 
+      style="padding: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+  />
+  <img 
+      alt="Python" 
+      title="Python"
+      width="40px" 
+      style="padding: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+  />
+  <img 
+      alt="R" 
+      title="R"
+      width="40px" 
+      style="padding: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" 
+  />
+  <img 
+      alt="SQL Developer" 
+      title="SQL Developer"
+      width="40px" 
+      style="padding: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" 
+  />
+  <img 
+      alt="AWS" 
+      title="AWS"
+      width="40px" 
+      style="padding: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+  />
+</p>
 
 <br>
 
